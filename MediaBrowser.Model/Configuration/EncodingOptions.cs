@@ -32,7 +32,7 @@ namespace MediaBrowser.Model.Configuration
             DeinterlaceMethod = "yadif";
             EnableDecodingColorDepth10Hevc = true;
             EnableDecodingColorDepth10Vp9 = true;
-            EnableEnhancedNvdecDecoder = false;
+            EnableEnhancedNvdecDecoder = true;
             PreferSystemNativeHwDecoder = true;
             EnableIntelLowPowerH264HwEncoder = false;
             EnableIntelLowPowerHevcHwEncoder = false;
